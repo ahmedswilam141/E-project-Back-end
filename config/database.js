@@ -13,4 +13,3 @@ const dbConnection = () => {
 };
 
 module.exports = dbConnection;
-1
